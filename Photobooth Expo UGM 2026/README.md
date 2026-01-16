@@ -1,2 +1,2 @@
 # Photobooth
-Photobooth SMAGO UNIVERSITY EXPO
+Photobooth EXPO PENDIDIKAN MAN 2 KOTA MALANG
